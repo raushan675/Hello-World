@@ -1,2 +1,2 @@
 # Hello-World
-Hi,I am raushan Kumar ia ma new in programming language but i will get there no matter hoe much time it take.
+Hi,I am raushan Kumar i am new in programming language but i will get there no matter how much time it take.
